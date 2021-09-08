@@ -3,4 +3,6 @@ export class User{
     public nome: string
     public email: string
     public senha: string
+    public foto: string
+    public token: string
 }
